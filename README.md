@@ -1,2 +1,2 @@
-# Projetos-acad-micos
+# Projetos Acadêmicos
 Projetos desenvolvidos no IFBA.
