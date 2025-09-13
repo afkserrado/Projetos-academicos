@@ -7,10 +7,10 @@
 [T1Q1](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T1/T1Q1.c)  
 [T1Q2](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T1/T1Q2.c)  
 [T2Q1](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T2/T2Q1.c)  
-[T2Q2](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T2/T2Q2.c) 
-[T2Q3](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T2/T2Q3.c) 
-[T3Q1](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T3/T3Q1.c) 
-[T3Q2](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T3/T3Q2.c) 
+[T2Q2](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T2/T2Q2.c)  
+[T2Q3](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T2/T2Q3.c)  
+[T3Q1](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T3/T3Q1.c)  
+[T3Q2](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T3/T3Q2.c)  
 [T3Q3](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T3/T3Q3.c)
 
 - Trabalhos de INF029 Laboratório de Programação (C):
