@@ -1,9 +1,9 @@
 # Referências dos projetos acadêmicos
 
-- Trabalho final da disciplina INF032 Tópicos Avançados (Python):
+- Trabalho final da disciplina INF032 Tópicos Avançados (Python):  
 [Trabalho Final](https://github.com/afkserrado/IFBA/blob/main/INF032-Codes/Trabalho-Final.py)
 
-- Trabalhos de INF006 Estruturas de Dados e Algoritmos (C):
+- Trabalhos de INF006 Estruturas de Dados e Algoritmos (C):  
 [T1Q1](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T1/T1Q1.c)  
 [T1Q2](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T1/T1Q2.c)  
 [T2Q1](https://github.com/afkserrado/IFBA/blob/main/INF006-Codes/P-T2/T2Q1.c)  
