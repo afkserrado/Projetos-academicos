@@ -1,6 +1,9 @@
 # Referências dos projetos acadêmicos
 Projetos desenvolvidos no tecnólogo em Análise e Desenvolvimento de Sistemas do IFBA.
 
+- Trabalho final da disciplina INF008 Programação Orientada a Objetos (Java):
+    - [LokiCar](https://github.com/afkserrado/IFBA/tree/main/INF008%20-%20POO%20(Java)/Trabalho%20final)
+
 - Trabalho final da disciplina INF032 Tópicos Avançados (Python):  
     - [Trabalho Final](https://github.com/afkserrado/IFBA/blob/main/INF032-Codes/Trabalho-Final.py)
 
